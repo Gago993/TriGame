@@ -34,7 +34,7 @@ TriGame е логичка игра која ќе Ве натера да го д�
 <img src="https://raw.githubusercontent.com/Gago993/TriGame/master/MenuButton/Resources/t1.png"/>   - правиот агол од триаголникот во горниот лев агол од квадратчето
 
 
-<img src="https://raw.githubusercontent.com/Gago993/TriGame/master/MenuButton/Resources/t1.png"/>   - правиот агол од триаголникот во долниот десен агол од квадратчето  
+<img src="https://raw.githubusercontent.com/Gago993/TriGame/master/MenuButton/Resources/t2.png"/>   - правиот агол од триаголникот во долниот десен агол од квадратчето  
  
 
 
