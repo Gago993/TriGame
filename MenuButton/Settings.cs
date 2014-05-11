@@ -59,9 +59,9 @@ namespace MenuButton
         private void setTimer(int timerGame)
         {
             timer = timerGame;
-            if (timer == 900) rbEasy.Checked = true;
-            if (timer == 600) rbMedium.Checked = true;
-            if (timer == 300) rbHard.Checked = true;
+            if (timer == 250) rbEasy.Checked = true;
+            if (timer == 100) rbMedium.Checked = true;
+            if (timer == 60) rbHard.Checked = true;
         }
 
         private void btnChooseSong_Click(object sender, EventArgs e)
@@ -143,15 +143,15 @@ namespace MenuButton
         {
             if (rbEasy.Checked)
             {
-                timer = 900;
+                timer = 250;
             }
             else if (rbMedium.Checked)
             {
-                timer = 600;
+                timer = 100;
             }
             else if (rbHard.Checked)
             {
-                timer = 300;
+                timer = 60;
             }
         }
 
